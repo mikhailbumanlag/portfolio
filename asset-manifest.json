@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.9f2c3055.css",
-  "main.css.map": "static/css/main.9f2c3055.css.map",
-  "main.js": "static/js/main.a22f1b5f.js",
-  "main.js.map": "static/js/main.a22f1b5f.js.map",
+  "main.css": "static/css/main.a4031b29.css",
+  "main.css.map": "static/css/main.a4031b29.css.map",
+  "main.js": "static/js/main.1a7457a0.js",
+  "main.js.map": "static/js/main.1a7457a0.js.map",
   "static\\media\\background.jpeg": "static/media/background.3103d348.jpeg",
   "static\\media\\ios1.png": "static/media/ios1.e3ddafab.png",
   "static\\media\\ios2.png": "static/media/ios2.ce7868e1.png",
@@ -10,6 +10,6 @@
   "static\\media\\ios4.png": "static/media/ios4.8a5b3457.png",
   "static\\media\\ios5.png": "static/media/ios5.a9deb0d7.png",
   "static\\media\\ios6.png": "static/media/ios6.bfacf27b.png",
-  "static\\media\\mik.jpg": "static/media/mik.56b0ef9e.jpg",
-  "static\\media\\mylogo.svg": "static/media/mylogo.4713ff6d.svg"
+  "static\\media\\logo2.svg": "static/media/logo2.8891ca96.svg",
+  "static\\media\\mik.jpg": "static/media/mik.56b0ef9e.jpg"
 }
